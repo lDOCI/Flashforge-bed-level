@@ -1,8 +1,20 @@
 # Flashforge-bed-level
-Flashforge 5M advanture bed leveling visualisation
+Визуализация выравнивания стола для Flashforge 5M Adventure
 
-F5m does not have an ideal bed level from the factory.
-This program can help you to adjust bed level by adjusting screw in the corners  
-I used Python 3.9
+## Описание
+Flashforge 5M Adventure с завода может иметь неидеальное выравнивание стола.
+Эта программа поможет вам настроить уровень стола, регулируя винты по углам.
 
-![](pic.png)
+## Требования
+- Python 3.9
+- Зависимости из файла requirements.txt
+
+## Установка
+1. Клонируйте репозиторий
+2. Установите зависимости: `pip install -r requirements.txt`
+3. Запустите программу: `python bed_level_analyzer.py`
+
+## Использование
+1. Запустите программу
+2. Следуйте инструкциям на экране для настройки уровня стола
+3. Используйте визуальное отображение для корректировки винтов
