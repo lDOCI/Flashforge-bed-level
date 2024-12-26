@@ -1,0 +1,207 @@
+absl-py==2.1.0
+adafruit-ampy==1.1.0
+aiohttp==3.9.0
+aiosignal==1.3.1
+altgraph==0.17.4
+anyio==4.6.2.post1
+astunparse==1.6.3
+async-timeout==4.0.3
+attrs==23.1.0
+auto-py-to-exe==2.44.4
+beautifulsoup4==4.12.2
+bitarray==2.8.3
+bitstring==4.1.4
+blinker==1.7.0
+boltons @ file:///C:/b/abs_707eo7c09t/croot/boltons_1677628723117/work
+bottle==0.13.2
+bottle-websocket==0.2.9
+brotlipy==0.7.0
+cachetools==5.3.2
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+cffi==1.17.1
+chardet==4.0.0
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+colorlog==6.9.0
+conda==23.3.1
+conda-content-trust @ file:///C:/Windows/TEMP/abs_4589313d-fc62-4ccc-81c0-b801b4449e833j1ajrwu/croots/recipe/conda-content-trust_1658126379362/work
+conda-package-handling @ file:///C:/b/abs_fcga8w0uem/croot/conda-package-handling_1672865024290/work
+conda_package_streaming @ file:///C:/b/abs_0e5n5hdal3/croot/conda-package-streaming_1670508162902/work
+contourpy==1.3.1
+cryptography==36.0.2
+cx_Freeze==7.2.6
+cx_Logging==3.2.1
+cycler==0.12.1
+cytoolz==0.12.2
+decompyle3 @ git+https://github.com/rocky/python-decompile3@2118134478b5867ecf5ce193435ba49c7baf8b11
+ecdsa==0.18.0
+Eel==0.18.1
+esptool==4.7.0
+et_xmlfile==2.0.0
+eth-abi==4.2.1
+eth-account==0.10.0
+eth-hash==0.5.2
+eth-keyfile==0.6.1
+eth-keys==0.4.0
+eth-rlp==0.3.0
+eth-typing==3.5.2
+eth-utils==2.3.1
+exceptiongroup==1.2.0
+fake-useragent==1.5.1
+feedparser==6.0.11
+filelock==3.13.1
+Flask==3.0.0
+flatbuffers==24.3.25
+fonttools==4.55.0
+frozenlist==1.4.0
+fsspec==2024.2.0
+future==1.0.0
+gast==0.6.0
+gevent==24.11.1
+gevent-websocket==0.10.1
+google==3.0.0
+google-api-core==2.14.0
+google-api-python-client==2.108.0
+google-auth==2.23.4
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+google-pasta==0.2.0
+googleapis-common-protos==1.61.0
+greenlet==3.1.1
+grpcio==1.67.1
+h11==0.14.0
+h2==4.1.0
+h5py==3.12.1
+hexbytes==0.3.1
+hpack==4.0.0
+httpcore==1.0.7
+httplib2==0.22.0
+httpx==0.27.2
+huggingface-hub==0.20.3
+hyperframe==6.0.1
+idna==2.10
+imageio==2.33.1
+intelhex==2.3.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+joblib==1.3.2
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+jsonschema==4.20.0
+jsonschema-specifications==2023.11.1
+keras==3.6.0
+kiwisolver==1.4.7
+lazy_loader==0.3
+libclang==18.1.1
+lief==0.15.1
+lru-dict==1.2.0
+Markdown==3.7
+markdown-it-py==3.0.0
+MarkupSafe==2.1.3
+matplotlib==3.7.1
+mdurl==0.1.2
+menuinst @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_455sf5o0ct/croots/recipe/menuinst_1661805970842/work
+ml-dtypes==0.4.1
+mpmath==1.3.0
+multidict==6.0.4
+namex==0.0.8
+networkx==3.2.1
+numpy==1.21.6
+oauthlib==3.2.2
+openpyxl==3.1.5
+opt_einsum==3.4.0
+optree==0.13.0
+outcome==1.3.0.post0
+packaging==24.2
+pandas==2.1.3
+parsimonious==0.9.0
+paramiko==2.7.2
+pathlib2==2.3.7.post1
+pefile==2023.2.7
+pillow==9.5.0
+pluggy @ file:///C:/b/abs_cfvk6rc40d/croot/pluggy_1648042746254/work
+protobuf==4.25.1
+py-unisender==0.0.1
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pycosat @ file:///C:/b/abs_4b1rrw8pn9/croot/pycosat_1666807711599/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodome==3.19.0
+pydumpck==1.20.1
+Pygments==2.18.0
+pyinstaller==6.11.1
+pyinstaller-hooks-contrib==2024.10
+pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
+pyparsing==3.1.1
+pyserial==3.5
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dateutil==2.8.2
+python-dotenv==1.0.1
+pytz==2023.3.post1
+pyunormalize==15.1.0
+pywin32==306
+pywin32-ctypes==0.2.3
+PyYAML==6.0.1
+redis==5.2.0
+reedsolo==1.7.0
+referencing==0.31.0
+regex==2023.10.3
+requests==2.25.1
+requests-oauthlib==1.3.1
+rich==13.9.3
+rlp==3.0.0
+rpds-py==0.13.0
+rsa==4.9
+ruamel.yaml @ file:///C:/b/abs_30ee5qbthd/croot/ruamel.yaml_1666304562000/work
+ruamel.yaml.clib @ file:///C:/b/abs_aarblxbilo/croot/ruamel.yaml.clib_1666302270884/work
+scidatetime==1.20.5
+scikit-image==0.22.0
+scikit-learn==1.3.2
+scipy==1.7.3
+secure-smtplib==0.1.1
+selenium==4.11.2
+sgmllib3k==1.0.0
+sgtpyutils==1.20.5
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.0
+sortedcontainers==2.4.0
+soupsieve==2.5
+spark-parser==1.8.9
+sympy==1.12
+tensorboard==2.18.0
+tensorboard-data-server==0.7.2
+tensorflow==2.18.0
+tensorflow-io-gcs-filesystem==0.31.0
+tensorflow_intel==2.18.0
+termcolor==2.5.0
+threadpoolctl==3.2.0
+tifffile==2024.1.30
+tinyaes==1.1.1
+tomli==2.1.0
+toolz @ file:///C:/b/abs_cfvk6rc40d/croot/toolz_1667464080130/work
+torch==2.2.0
+torchvision==0.17.0
+tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
+trio==0.23.2
+trio-websocket==0.11.1
+typing==3.7.4.3
+typing_extensions==4.12.2
+tzdata==2023.3
+uncompyle6==3.9.2
+uritemplate==4.1.1
+urllib3 @ file:///C:/b/abs_3ce53vrdcr/croot/urllib3_1680254693505/work
+web3==6.11.3
+websockets==12.0
+Werkzeug==3.0.1
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
+wincertstore==0.2
+wrapt==1.16.0
+wsproto==1.2.0
+xdis==6.1.2
+yarl==1.9.2
+zope.event==5.0
+zope.interface==7.1.1
+zstandard==0.19.0
+bcrypt==3.2.2
+pynacl==1.5.0

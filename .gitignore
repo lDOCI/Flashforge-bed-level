@@ -1,0 +1,17 @@
+# Игнорируем папки
+config/
+logs/
+damp/
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Игнорируем файлы
+*.csv
+*.cfg
+*.spec
+
+# Временные файлы
+*~
+.DS_Store

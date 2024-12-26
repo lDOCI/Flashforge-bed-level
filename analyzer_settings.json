@@ -1,0 +1,15 @@
+{
+    "SHOW_MINUTES": true,
+    "SHOW_DEGREES": true,
+    "SHOW_BELT_STAGE": true,
+    "SHOW_SCREW_STAGE": true,
+    "SHOW_TAPE_STAGE": true,
+    "BELT_DELTA_THRESHOLD": 0.1,
+    "SCREW_DELTA_THRESHOLD": 0.1,
+    "TAPE_DELTA_THRESHOLD": 0.1,
+    "BELT_TOOTH_MM": 2.0,
+    "TAPE_THICKNESS": 0.1,
+    "SSH_IP": "",
+    "SSH_LOGIN": "",
+    "SSH_PASSWORD": ""
+}
